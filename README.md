@@ -1,6 +1,10 @@
 # json-stream [![Build Status](https://travis-ci.org/voidcontext/json-stream.svg?branch=main)](https://travis-ci.org/voidcontext/json-stream)
 A library to process large JSON objects as (key, value) stream
 
+## Update: Archived!
+This repository is now archived. Using the learings from this 
+experiment the developemnt continues as [ghyll](https://github.com/voidcontext/ghyll).
+
 ## Problem Statement
 
 In some cases datasets are not nicely organised into an array that's
